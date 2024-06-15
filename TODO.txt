@@ -1,0 +1,22 @@
+====================CURRENTLY WORKING ON====================
+Clean up Skill class
+---------------------------------------------------------
+====================PRIORITIES====================
+  -Change traits to only apply multis that are not 1
+  -Change reflect skill to be like buff
+--------------------------------------------------
+
+======================ADD-ONS=====================
+  -Endless mode?
+  -Hit chance
+  -Monster fighting skills---
+  -Journey path choices?
+  -Shop into a class : Shop.addItem(name, cost, effect (a function))
+  -Player save and load JSON
+
+====================NOTES====================
+  -2 stages, locked behind essence
+----------------------------------------------
+====================STORY====================
+  -Essence: All creatures have essence, which makes them stronger. Humans can kill monsters to gather their essence, which in turn strenghthens the human.
+-------------------------------------------
